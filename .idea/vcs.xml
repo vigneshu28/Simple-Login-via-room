@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android Projects/RecipeMaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterExamples/dicee-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterExamples/quizzler-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlutterExamples/xylophone-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IFIVE/ionic-land" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IFIVE/land/ionic-land" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleLogin" vcs="Git" />
+  </component>
+</project>
